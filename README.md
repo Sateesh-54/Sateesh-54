@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @Sateesh-54
 - 👀 I’m interested in Coding
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on 
 - 📫 How to reach me E-mail:sateeshtirumala54@gmail.com
 
 <!---
